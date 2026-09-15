@@ -20,4 +20,4 @@ List of the required software environment, dependencies, and setup commands.
 
 ## Author
 
-- [@richapurba](https://www.github.com/richapurba)
+- [Richa Ulivia Hilda Srianty Purba](https://www.github.com/richapurba)
